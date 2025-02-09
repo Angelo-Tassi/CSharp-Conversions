@@ -1,2 +1,2 @@
 # CSharpConversions
-attempting full manual program conversions from Python
+Attempting full manual C# program conversions from Python
