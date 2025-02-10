@@ -83,16 +83,6 @@ Console.WriteLine("Ok, the total bill for your pizza is : " + bill + " $");
 
 
 
-// elif size == "M":
-    // bill = (int(15))
-    // break
-    // elif size == "L":
-    // bill = (int(25))
-    // break
-    // else : print ("Wrong input, please retry ..")
-    // continue
-    
-
 // #Start
 //
 // print("Welcome to Python Pizza Deliveries!")
