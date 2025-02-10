@@ -1,0 +1,15 @@
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/bin/Debug/net9.0/Pizzadelivery
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/bin/Debug/net9.0/Pizzadelivery.deps.json
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/bin/Debug/net9.0/Pizzadelivery.runtimeconfig.json
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/bin/Debug/net9.0/Pizzadelivery.dll
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/bin/Debug/net9.0/Pizzadelivery.pdb
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/obj/Debug/net9.0/Pizzadelivery.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/obj/Debug/net9.0/Pizzadelivery.AssemblyInfoInputs.cache
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/obj/Debug/net9.0/Pizzadelivery.AssemblyInfo.cs
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/obj/Debug/net9.0/Pizzadelivery.csproj.CoreCompileInputs.cache
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/obj/Debug/net9.0/Pizzadelivery.sourcelink.json
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/obj/Debug/net9.0/Pizzadelivery.dll
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/obj/Debug/net9.0/refint/Pizzadelivery.dll
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/obj/Debug/net9.0/Pizzadelivery.pdb
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/obj/Debug/net9.0/Pizzadelivery.genruntimeconfig.cache
+/Users/angelotassi/Documents/code/C#/Pizzadelivery/Pizzadelivery/obj/Debug/net9.0/ref/Pizzadelivery.dll
