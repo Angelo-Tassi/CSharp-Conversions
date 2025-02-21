@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\tassia\\.nuget\\packages\\": {}
+    "/Users/angelotassi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tassia\\OneDrive - Pfizer\\Documents\\C#\\Pizzadelivery\\Pizzadelivery\\Pizzadelivery.csproj",
-      "projectName": "Pizzadelivery",
-      "projectPath": "C:\\Users\\tassia\\OneDrive - Pfizer\\Documents\\C#\\Pizzadelivery\\Pizzadelivery\\Pizzadelivery.csproj",
-      "packagesPath": "C:\\Users\\tassia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tassia\\OneDrive - Pfizer\\Documents\\C#\\Pizzadelivery\\Pizzadelivery\\obj\\",
+      "projectUniqueName": "/Users/angelotassi/Documents/C#/HangMan/HangMan/HangMan.csproj",
+      "projectName": "HangMan",
+      "projectPath": "/Users/angelotassi/Documents/C#/HangMan/HangMan/HangMan.csproj",
+      "packagesPath": "/Users/angelotassi/.nuget/packages/",
+      "outputPath": "/Users/angelotassi/Documents/C#/HangMan/HangMan/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tassia\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/angelotassi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\tassia\\.dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/angelotassi/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

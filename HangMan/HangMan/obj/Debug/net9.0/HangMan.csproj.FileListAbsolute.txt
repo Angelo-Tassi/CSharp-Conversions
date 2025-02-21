@@ -1,0 +1,15 @@
+/Users/angelotassi/Documents/C#/HangMan/HangMan/bin/Debug/net9.0/HangMan
+/Users/angelotassi/Documents/C#/HangMan/HangMan/bin/Debug/net9.0/HangMan.deps.json
+/Users/angelotassi/Documents/C#/HangMan/HangMan/bin/Debug/net9.0/HangMan.runtimeconfig.json
+/Users/angelotassi/Documents/C#/HangMan/HangMan/bin/Debug/net9.0/HangMan.dll
+/Users/angelotassi/Documents/C#/HangMan/HangMan/bin/Debug/net9.0/HangMan.pdb
+/Users/angelotassi/Documents/C#/HangMan/HangMan/obj/Debug/net9.0/HangMan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/angelotassi/Documents/C#/HangMan/HangMan/obj/Debug/net9.0/HangMan.AssemblyInfoInputs.cache
+/Users/angelotassi/Documents/C#/HangMan/HangMan/obj/Debug/net9.0/HangMan.AssemblyInfo.cs
+/Users/angelotassi/Documents/C#/HangMan/HangMan/obj/Debug/net9.0/HangMan.csproj.CoreCompileInputs.cache
+/Users/angelotassi/Documents/C#/HangMan/HangMan/obj/Debug/net9.0/HangMan.sourcelink.json
+/Users/angelotassi/Documents/C#/HangMan/HangMan/obj/Debug/net9.0/HangMan.dll
+/Users/angelotassi/Documents/C#/HangMan/HangMan/obj/Debug/net9.0/refint/HangMan.dll
+/Users/angelotassi/Documents/C#/HangMan/HangMan/obj/Debug/net9.0/HangMan.pdb
+/Users/angelotassi/Documents/C#/HangMan/HangMan/obj/Debug/net9.0/HangMan.genruntimeconfig.cache
+/Users/angelotassi/Documents/C#/HangMan/HangMan/obj/Debug/net9.0/ref/HangMan.dll

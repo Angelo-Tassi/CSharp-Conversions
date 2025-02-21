@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Pizzadelivery")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("HangMan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7919564fa6774a05163d71c4e201bd7c269c79a7")]
-[assembly: System.Reflection.AssemblyProductAttribute("Pizzadelivery")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Pizzadelivery")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df2ed5a6a22b4cd1b69b8af5340e9a4bb72597a5")]
+[assembly: System.Reflection.AssemblyProductAttribute("HangMan")]
+[assembly: System.Reflection.AssemblyTitleAttribute("HangMan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
